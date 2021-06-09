@@ -1,3 +1,8 @@
+/**
+ *  Literatur-Beispiel | 6 aus 49
+ * 
+ */
+
 import java.util.Random;
 import java.util.Arrays;
 
